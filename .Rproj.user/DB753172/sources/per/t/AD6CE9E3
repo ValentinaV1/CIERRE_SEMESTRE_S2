@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578546836457.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4145694175",
+    "id" : "AD6CE9E3",
+    "lastKnownWriteTime" : 1578548410,
+    "last_content_update" : -2147483648,
+    "path" : "~/Big Data 2019/Valentina/DesarrolloPreguntas.R",
+    "project_path" : "DesarrolloPreguntas.R",
+    "properties" : {
+        "cursorPosition" : "31,0",
+        "scrollLine" : "16",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
